@@ -1,43 +1,101 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.aida.domain</groupId>
+	<artifactId>aida.domain</artifactId>
+	<version>1.0.0</version>
+	<packaging>jar</packaging>
 
-  <groupId>aida.domain</groupId>
-  <artifactId>aida.domain</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+	<name>aida.domain</name>
+	<url>http://maven.apache.org</url>
 
-  <name>aida.domain</name>
-  <url>http://maven.apache.org</url>
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<dal-client-version>1.12.0</dal-client-version>
+		<junit.version>3.8.1</junit.version>
+		<org.mapstruct.version>1.2.0.Final</org.mapstruct.version>
+		<!-- Local Jar -->
+		<aidadto.version>1.0.0</aidadto.version>
+		<aida.repository>1.0.0</aida.repository>
+		<aida.infrastructure.version>1.0.0</aida.infrastructure.version>
+	</properties>
 
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-      <dal-client-version>1.12.0</dal-client-version>
-      <aida-dto-version>1.0.0</aida-dto-version>
-      <aida.repository>1.0.0</aida.repository>
-  </properties>
+	<!-- Include dao resolve tools jar package -->
+	<dependencies>
+		<dependency>
+			<groupId>com.ctrip.platform</groupId>
+			<artifactId>dal-client</artifactId>
+			<version>${dal-client-version}</version>
+		</dependency>
+
+		<!-- Include dto package -->
+		<dependency>
+			<groupId>com.aida.dto</groupId>
+			<artifactId>aida.dto</artifactId>
+			<version>${aidadto.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.aida.repository</groupId>
+			<artifactId>aida.repository</artifactId>
+			<version>${aida.repository}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.aida.infrastructure</groupId>
+			<artifactId>aida.infrastructure</artifactId>
+			<version>${aida.infrastructure.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>${junit.version}</version>
+			<scope>test</scope>
+		</dependency>
+		
  
-  <!-- Include dao resolve tools jar package -->
-  <dependencies>
-    <dependency>
-       <groupId>com.ctrip.platform</groupId>
-       <artifactId>dal-client</artifactId>
-       <version>${dal-client-version}</version>
-   </dependency>
-     
-     <!-- Include dto package-->
-    <dependency>
-       <groupId>aida.dto</groupId>
-       <artifactId>aida.dto</artifactId>
-       <version>${aida-dto-version}</version>
-   </dependency>           
-        
-        
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>3.8.1</version>
-      <scope>test</scope>
-    </dependency>
-  </dependencies>
+	    <dependency>
+	        <groupId>org.mapstruct</groupId>
+	        <artifactId>mapstruct</artifactId> <!-- use mapstruct-jdk8 for Java 8 or higher -->
+	        <version>${org.mapstruct.version}</version>
+	    </dependency>
+	    
+	       <dependency>
+            <groupId>org.mapstruct</groupId>
+            <artifactId>mapstruct-jdk8</artifactId>
+            <version>${org.mapstruct.version}</version>
+        </dependency>
+	    
+	         <dependency>
+            <groupId>org.mapstruct</groupId>
+            <artifactId>mapstruct-processor</artifactId>
+            <version>${org.mapstruct.version}</version>
+            <!-- IntelliJ does not pick up the processor if it is not in the dependencies.
+             There is already an open issue for IntelliJ see https://youtrack.jetbrains.com/issue/IDEA-150621
+            -->
+            <scope>provided</scope>
+        </dependency>
+	    
+	  </dependencies>
+	 <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.5.1</version>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                    <annotationProcessorPaths>
+                        <path>
+                            <groupId>org.mapstruct</groupId>
+                            <artifactId>mapstruct-processor</artifactId>
+                            <version>${org.mapstruct.version}</version>
+                        </path>
+                    </annotationProcessorPaths>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 </project>

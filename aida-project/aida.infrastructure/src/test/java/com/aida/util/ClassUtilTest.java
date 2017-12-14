@@ -1,7 +1,7 @@
 package com.aida.util;
 
 import com.aida.temp.model.BusinessLog;
-import com.infrastructure.common.ClassUtil;
+import com.aida.utils.ClassUtil;
 
 import org.junit.Test;
 

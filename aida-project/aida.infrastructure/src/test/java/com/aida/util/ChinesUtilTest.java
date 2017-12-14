@@ -5,7 +5,7 @@ import junit.framework.TestCase;
 import java.io.UnsupportedEncodingException;
 import java.nio.charset.CharacterCodingException;
 
-import com.infrastructure.common.ChinesUtil;
+import com.aida.utils.ChinesUtil;
 
 public class ChinesUtilTest extends TestCase {
 

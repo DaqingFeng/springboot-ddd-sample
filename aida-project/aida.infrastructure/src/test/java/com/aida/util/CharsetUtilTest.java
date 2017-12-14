@@ -2,9 +2,9 @@ package com.aida.util;
 
 import org.junit.Test;
 
-import com.infrastructure.common.CharsetUtil;
-import com.infrastructure.common.StringUtil;
-import com.infrastructure.common.SysUtil;
+import com.aida.utils.CharsetUtil;
+import com.aida.utils.StringUtil;
+import com.aida.utils.SysUtil;
 
 import java.io.UnsupportedEncodingException;
 import java.nio.charset.CharacterCodingException;

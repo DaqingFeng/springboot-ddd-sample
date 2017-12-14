@@ -1,8 +1,9 @@
-package com.opslab.util.image;
-
-import com.opslab.util.image.GIF.GifEncoder;
+package com.aida.util.image;
 
 import javax.imageio.ImageIO;
+
+import com.aida.util.image.GIF.GifEncoder;
+
 import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.FileNotFoundException;

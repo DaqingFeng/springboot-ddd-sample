@@ -1,4 +1,4 @@
-package com.opslab.util.bean;
+package com.aida.util.bean;
 
 import java.beans.BeanInfo;
 import java.beans.IntrospectionException;
@@ -9,7 +9,7 @@ import java.lang.reflect.Method;
 import java.util.Hashtable;
 import java.util.Map;
 
-import com.infrastructure.common.valid;
+import com.aida.utils.valid;
 
 /**
  * 提供一些BeanUti需要的方法

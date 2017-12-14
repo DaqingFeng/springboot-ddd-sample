@@ -1,10 +1,10 @@
 package com.aida.helper;
 
 import com.aida.util.TestUtil;
-import com.opslab.functions.ObjectHandler;
-import com.opslab.functions.ObjectProcess;
-import com.opslab.helper.CollectionHelper;
-import com.opslab.helper.FileHelper;
+import com.aida.util.functions.ObjectHandler;
+import com.aida.util.functions.ObjectProcess;
+import com.aida.util.helper.CollectionHelper;
+import com.aida.util.helper.FileHelper;
 
 import org.junit.Test;
 

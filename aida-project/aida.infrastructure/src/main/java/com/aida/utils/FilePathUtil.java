@@ -1,4 +1,4 @@
-package com.infrastructure.common;
+package com.aida.utils;
 
 /**
  * 文件名及文件路径相关的操作

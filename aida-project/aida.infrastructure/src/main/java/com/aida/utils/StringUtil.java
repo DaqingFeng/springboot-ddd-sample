@@ -1,12 +1,12 @@
-package com.infrastructure.common;
-
-import com.opslab.util.algorithmImpl.BCConvert;
-import com.opslab.util.algorithmImpl.StringImpl;
+package com.aida.utils;
 
 import java.text.DecimalFormat;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
+import com.aida.util.algorithmImpl.BCConvert;
+import com.aida.util.algorithmImpl.StringImpl;
 
 /**
  * 提供些常用的字符串相关的工具方法

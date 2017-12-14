@@ -3,7 +3,7 @@ package com.aida.util;
 import junit.framework.TestCase;
 import org.junit.Test;
 
-import com.infrastructure.common.RegUtil;
+import com.aida.utils.RegUtil;
 
 
 public class RegUtilTest extends TestCase {

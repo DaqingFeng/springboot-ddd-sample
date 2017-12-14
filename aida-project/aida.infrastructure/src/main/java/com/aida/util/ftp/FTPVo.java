@@ -1,4 +1,4 @@
-package com.opslab.util.ftp;
+package com.aida.util.ftp;
 
 /**
  * 用于包装FTP的相关的信息

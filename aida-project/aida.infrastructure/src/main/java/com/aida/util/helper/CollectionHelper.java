@@ -1,8 +1,8 @@
-package com.opslab.helper;
+package com.aida.util.helper;
 
-import com.infrastructure.common.valid;
-import com.opslab.functions.ObjectHandler;
-import com.opslab.functions.ObjectProcess;
+import com.aida.util.functions.ObjectHandler;
+import com.aida.util.functions.ObjectProcess;
+import com.aida.utils.valid;
 
 import java.util.*;
 

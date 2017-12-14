@@ -1,4 +1,4 @@
-package com.infrastructure.common;
+package com.aida.utils;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

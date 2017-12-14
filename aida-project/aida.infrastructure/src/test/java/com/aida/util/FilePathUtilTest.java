@@ -3,7 +3,7 @@ package com.aida.util;
 
 import static org.junit.Assert.assertEquals;
 
-import com.infrastructure.common.FilePathUtil;
+import com.aida.utils.FilePathUtil;
 
 /**
  * <h6>Description:<h6>

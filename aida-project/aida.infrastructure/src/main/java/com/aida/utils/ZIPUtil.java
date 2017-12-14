@@ -1,4 +1,4 @@
-package com.infrastructure.common;
+package com.aida.utils;
 
 import java.io.*;
 import java.util.zip.ZipEntry;

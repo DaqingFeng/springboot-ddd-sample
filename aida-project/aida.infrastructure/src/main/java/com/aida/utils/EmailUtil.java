@@ -1,4 +1,4 @@
-package com.infrastructure.common;
+package com.aida.utils;
 
 import javax.activation.DataHandler;
 import javax.activation.DataSource;

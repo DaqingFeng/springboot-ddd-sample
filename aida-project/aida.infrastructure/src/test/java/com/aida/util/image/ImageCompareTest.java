@@ -5,7 +5,7 @@ import junit.framework.TestCase;
 import java.io.File;
 
 import com.aida.util.TestUtil;
-import com.opslab.util.image.ImageCompare;
+import com.aida.util.image.ImageCompare;
 
 
 public class ImageCompareTest extends TestCase {

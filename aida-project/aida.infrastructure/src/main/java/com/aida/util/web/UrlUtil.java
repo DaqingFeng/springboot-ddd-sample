@@ -1,10 +1,10 @@
-package com.opslab.util.web;
+package com.aida.util.web;
 
 import javax.servlet.http.HttpServletRequest;
 
-import com.infrastructure.common.CharUtil;
-import com.infrastructure.common.CharsetUtil;
-import com.infrastructure.common.StringUtil;
+import com.aida.utils.CharUtil;
+import com.aida.utils.CharsetUtil;
+import com.aida.utils.StringUtil;
 
 import java.io.ByteArrayOutputStream;
 import java.io.UnsupportedEncodingException;

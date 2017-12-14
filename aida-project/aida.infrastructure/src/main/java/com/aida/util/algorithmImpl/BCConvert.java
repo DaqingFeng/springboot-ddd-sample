@@ -1,6 +1,6 @@
-package com.opslab.util.algorithmImpl;
+package com.aida.util.algorithmImpl;
 
-import com.infrastructure.common.StringUtil;
+import com.aida.utils.StringUtil;
 
 /**
  * 提供对字符串的全角->半角，半角->全角转换

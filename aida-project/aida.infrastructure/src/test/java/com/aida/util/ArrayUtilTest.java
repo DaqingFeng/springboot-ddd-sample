@@ -3,7 +3,7 @@ package com.aida.util;
 
 import org.junit.Test;
 
-import com.infrastructure.common.ArrayUtil;
+import com.aida.utils.ArrayUtil;
 
 public class ArrayUtilTest  {
     @Test

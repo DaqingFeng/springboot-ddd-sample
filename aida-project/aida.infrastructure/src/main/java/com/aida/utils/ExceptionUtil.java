@@ -1,4 +1,4 @@
-package com.infrastructure.common;
+package com.aida.utils;
 
 import java.io.PrintWriter;
 import java.io.StringWriter;

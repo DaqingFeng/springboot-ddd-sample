@@ -1,6 +1,6 @@
 package com.aida.util.coordinates;
 
-import com.opslab.util.coordinates.CoordinateUtil;
+import com.aida.util.coordinates.CoordinateUtil;
 
 import junit.framework.TestCase;
 

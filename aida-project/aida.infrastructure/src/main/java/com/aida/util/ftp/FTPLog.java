@@ -1,6 +1,6 @@
-package com.opslab.util.ftp;
+package com.aida.util.ftp;
 
-import com.infrastructure.common.DateUtil;
+import com.aida.utils.DateUtil;
 
 /**
  * Created by Administrator on 2015-04-08.

@@ -1,4 +1,4 @@
-package com.opslab.util.coordinates;
+package com.aida.util.coordinates;
 
 /**
  * 经纬度相关的阿一些操作

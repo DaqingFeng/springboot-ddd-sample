@@ -1,6 +1,6 @@
 package com.aida.util;
 
-import com.infrastructure.common.Password;
+import com.aida.utils.Password;
 
 import junit.framework.TestCase;
 

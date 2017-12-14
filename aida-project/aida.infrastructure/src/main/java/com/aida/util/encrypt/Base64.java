@@ -1,9 +1,9 @@
-package com.opslab.util.encrypt;
+package com.aida.util.encrypt;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Arrays;
 
-import com.infrastructure.common.CharsetUtil;
+import com.aida.utils.CharsetUtil;
 
 /**
  * Base64的编码和解码

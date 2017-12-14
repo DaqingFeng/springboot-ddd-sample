@@ -1,7 +1,4 @@
-package com.infrastructure.common;
-
-import com.opslab.util.algorithmImpl.FileTypeImpl;
-import com.opslab.util.algorithmImpl.FileImpl;
+package com.aida.utils;
 
 import java.io.*;
 import java.math.BigInteger;
@@ -15,6 +12,9 @@ import java.security.NoSuchAlgorithmException;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
+
+import com.aida.util.algorithmImpl.FileImpl;
+import com.aida.util.algorithmImpl.FileTypeImpl;
 
 /**
  * 封装了些文件相关的操作

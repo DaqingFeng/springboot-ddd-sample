@@ -4,7 +4,7 @@ package com.aida.util;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.infrastructure.common.DateUtil;
+import com.aida.utils.DateUtil;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

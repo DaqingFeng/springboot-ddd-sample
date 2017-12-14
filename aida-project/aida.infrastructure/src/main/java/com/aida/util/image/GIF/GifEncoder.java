@@ -1,4 +1,4 @@
-package com.opslab.util.image.GIF;
+package com.aida.util.image.GIF;
 
 
 import java.awt.*;

@@ -2,8 +2,8 @@ package com.aida.util;
 
 import org.junit.Test;
 
-import com.infrastructure.common.CharsetUtil;
-import com.infrastructure.common.ConvertUtil;
+import com.aida.utils.CharsetUtil;
+import com.aida.utils.ConvertUtil;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Arrays;

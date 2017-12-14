@@ -1,7 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9dfcc18c-8ae9-4cb3-ad8a-e1184fea839a" name="Default" comment="" />
+    <list default="true" id="9dfcc18c-8ae9-4cb3-ad8a-e1184fea839a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/helper/CollectionHelperTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/helper/CollectionHelperTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/helper/FileHelperTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/helper/FileHelperTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ArrayUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ArrayUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/CharsetUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/CharsetUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ChinesUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ChinesUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ClassUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ClassUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ConfigUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ConfigUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ConvertUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ConvertUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/DateUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/DateUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/DateUtilThreadSafe.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/DateUtilThreadSafe.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/DateUtilUsagesTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/DateUtilUsagesTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/EmailUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/EmailUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ExceptionUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ExceptionUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/FilePathUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/FilePathUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/FileUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/FileUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/PasswordTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/PasswordTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/PropertiesUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/PropertiesUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/RandomUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/RandomUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/RegUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/RegUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/StreamUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/StreamUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/StringUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/StringUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/SysUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/SysUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ZIPUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ZIPUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/algorithmImpl/FileEncodingUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/algorithmImpl/FileEncodingUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/algorithmImpl/FileImplTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/algorithmImpl/FileImplTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/algorithmImpl/FileTypeImplTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/algorithmImpl/FileTypeImplTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/coordinates/CoordinateUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/coordinates/CoordinateUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/encrypt/Base32Test.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/encrypt/Base32Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/encrypt/Base64Test.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/encrypt/Base64Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/encrypt/BlowfishTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/encrypt/BlowfishTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/encrypt/SecureHATest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/encrypt/SecureHATest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/filetest/FilePathUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/filetest/FilePathUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/filetest/FileUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/filetest/FileUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ftp/FTPUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ftp/FTPUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/image/ColorUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/image/ColorUtilTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/image/ImageCaptchaTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/image/ImageCaptchaTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/image/ImageCompareTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/image/ImageCompareTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/image/OperateImageTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/image/OperateImageTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/validTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/validTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.web/pom.xml" afterPath="$PROJECT_DIR$/aida-project/aida.web/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.web/src/main/java/com/aida/common/controller/HelloWorld.java" afterPath="$PROJECT_DIR$/aida-project/aida.web/src/main/java/com/aida/common/controller/HelloWorld.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.web/src/main/resources/servlet-context.xml" afterPath="$PROJECT_DIR$/aida-project/aida.web/src/main/resources/servlet-context.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.web/src/main/resources/spring-context.xml" afterPath="$PROJECT_DIR$/aida-project/aida.web/src/main/resources/spring-context.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.web/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/aida-project/aida.web/src/main/webapp/index.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/ArrayUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/ArrayUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/CharUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/CharUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/CharsetUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/CharsetUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/ChinesUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/ChinesUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/ClassUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/ClassUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/ConfigUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/ConfigUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/ConvertUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/ConvertUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/DateUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/DateUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/EmailUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/EmailUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/ExceptionUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/ExceptionUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/FilePathUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/FilePathUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/FileUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/FileUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/OpslabConfig.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/OpslabConfig.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/Password.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/Password.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/PropertiesUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/PropertiesUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/RandomUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/RandomUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/RegUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/RegUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/StreamUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/StreamUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/StringUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/StringUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/SysUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/SysUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/UtilConstant.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/UtilConstant.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/ZIPUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/ZIPUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/constant.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/constant.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/valid.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/valid.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/functions/ObjectHandler.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/functions/ObjectHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/functions/ObjectProcess.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/functions/ObjectProcess.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/helper/CollectionHelper.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/helper/CollectionHelper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/helper/FileHelper.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/helper/FileHelper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/algorithmImpl/BCConvert.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/algorithmImpl/BCConvert.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/algorithmImpl/FileEncodingUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/algorithmImpl/FileEncodingUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/algorithmImpl/FileImpl.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/algorithmImpl/FileImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/algorithmImpl/FileReadImpl.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/algorithmImpl/FileReadImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/algorithmImpl/FileTypeImpl.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/algorithmImpl/FileTypeImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/algorithmImpl/StringImpl.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/algorithmImpl/StringImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/bean/BeanStruct.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/bean/BeanStruct.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/bean/BeanUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/bean/BeanUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/bean/Factory.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/bean/Factory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/bean/PropertyFilter.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/bean/PropertyFilter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/coordinates/CoordinateUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/coordinates/CoordinateUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/encrypt/Base32.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/encrypt/Base32.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/encrypt/Base64.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/encrypt/Base64.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/encrypt/Blowfish.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/encrypt/Blowfish.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/encrypt/SecureHA.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/encrypt/SecureHA.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/ftp/FTPConstant.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/ftp/FTPConstant.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/ftp/FTPFactory.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/ftp/FTPFactory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/ftp/FTPLog.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/ftp/FTPLog.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/ftp/FTPUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/ftp/FTPUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/ftp/FTPUtilImpl.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/ftp/FTPUtilImpl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/ftp/FTPVo.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/ftp/FTPVo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/ftp/FileAttr.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/ftp/FileAttr.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/image/CaptchaUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/image/CaptchaUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/image/ColorUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/image/ColorUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/image/GIF/Encoder.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/image/GIF/Encoder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/image/GIF/GifEncoder.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/image/GIF/GifEncoder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/image/GIF/Quant.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/image/GIF/Quant.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/image/ImageCaptcha.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/image/ImageCaptcha.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/image/ImageCompare.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/image/ImageCompare.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/image/ImageUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/image/ImageUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/image/OperateImage.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/image/OperateImage.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/web/UrlUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/web/UrlUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/web/WebUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/web/WebUtil.java" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +152,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -57,9 +165,22 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aidaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aidaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aida-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
@@ -68,7 +189,7 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/aida-project/aida.domain" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/aida-project" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -320,6 +441,7 @@
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -448,6 +570,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -475,43 +603,45 @@
       <option name="presentableId" value="Default" />
       <updated>1509972270843</updated>
       <workItem from="1509972272189" duration="20000" />
+      <workItem from="1512091098631" duration="9000" />
+      <workItem from="1512103850711" duration="9000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20000" />
+    <option name="totallyTimeSpent" value="38000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">

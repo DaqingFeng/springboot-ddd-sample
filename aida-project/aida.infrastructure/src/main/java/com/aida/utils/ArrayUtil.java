@@ -1,4 +1,4 @@
-package com.infrastructure.common;
+package com.aida.utils;
 
 /**
  * 数组相关的工具类

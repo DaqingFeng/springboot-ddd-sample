@@ -1,4 +1,4 @@
-package com.opslab.util.encrypt;
+package com.aida.util.encrypt;
 
 /**
  * Base32的编码和解码

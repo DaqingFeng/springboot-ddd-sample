@@ -3,8 +3,8 @@ package com.aida.util.image;
 import junit.framework.TestCase;
 
 import com.aida.util.TestUtil;
-import com.infrastructure.common.RandomUtil;
-import com.opslab.util.image.ImageCaptcha;
+import com.aida.util.image.ImageCaptcha;
+import com.aida.utils.RandomUtil;
 
 /**
  * 测试验证码生成

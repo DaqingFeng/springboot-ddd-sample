@@ -1,4 +1,4 @@
-package com.opslab.util.encrypt;
+package com.aida.util.encrypt;
 
 import java.io.UnsupportedEncodingException;
 

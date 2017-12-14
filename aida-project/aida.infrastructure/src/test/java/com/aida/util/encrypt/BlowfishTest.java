@@ -1,6 +1,6 @@
 package com.aida.util.encrypt;
 
-import com.opslab.util.encrypt.Blowfish;
+import com.aida.util.encrypt.Blowfish;
 
 import junit.framework.TestCase;
 

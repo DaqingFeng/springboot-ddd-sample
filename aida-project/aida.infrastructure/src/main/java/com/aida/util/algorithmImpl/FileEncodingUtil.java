@@ -1,12 +1,12 @@
-package com.opslab.util.algorithmImpl;
+package com.aida.util.algorithmImpl;
 
 import java.io.*;
 import java.nio.charset.Charset;
 import java.nio.charset.UnsupportedCharsetException;
 import java.util.List;
 
-import com.infrastructure.common.FileUtil;
-import com.infrastructure.common.valid;
+import com.aida.utils.FileUtil;
+import com.aida.utils.valid;
 
 /**
  * 文件编码相关的一些工具函数

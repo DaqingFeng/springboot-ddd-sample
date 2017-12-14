@@ -1,11 +1,11 @@
-package com.opslab.util.image;
+package com.aida.util.image;
 
 import javax.imageio.ImageIO;
 import javax.imageio.ImageReadParam;
 import javax.imageio.ImageReader;
 import javax.imageio.stream.ImageInputStream;
 
-import com.infrastructure.common.FileUtil;
+import com.aida.utils.FileUtil;
 
 import java.awt.*;
 import java.awt.color.ColorSpace;

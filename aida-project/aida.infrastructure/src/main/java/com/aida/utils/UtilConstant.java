@@ -1,4 +1,4 @@
-package com.infrastructure.common;
+package com.aida.utils;
 
 /**
  * 定义一些工具类的常理

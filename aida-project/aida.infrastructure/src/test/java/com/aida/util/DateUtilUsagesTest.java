@@ -4,8 +4,8 @@ package com.aida.util;
 import org.junit.Ignore;
 import org.junit.Test;
 
-import com.infrastructure.common.DateUtil;
-import com.infrastructure.common.FileUtil;
+import com.aida.utils.DateUtil;
+import com.aida.utils.FileUtil;
 
 import java.io.File;
 import java.text.ParseException;

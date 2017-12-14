@@ -1,4 +1,4 @@
-package com.opslab.util.image;
+package com.aida.util.image;
 
 import org.apache.log4j.Logger;
 

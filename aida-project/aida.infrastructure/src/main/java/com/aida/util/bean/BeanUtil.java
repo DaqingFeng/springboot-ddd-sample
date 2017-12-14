@@ -1,7 +1,7 @@
-package com.opslab.util.bean;
+package com.aida.util.bean;
 
-import com.infrastructure.common.valid;
-import com.opslab.helper.CollectionHelper;
+import com.aida.util.helper.CollectionHelper;
+import com.aida.utils.valid;
 
 import java.beans.IntrospectionException;
 import java.lang.reflect.InvocationTargetException;

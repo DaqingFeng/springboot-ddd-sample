@@ -5,9 +5,9 @@ import org.apache.commons.net.ftp.FTPFile;
 import org.junit.Ignore;
 import org.junit.Test;
 
-import com.opslab.util.ftp.FTPConstant;
-import com.opslab.util.ftp.FTPFactory;
-import com.opslab.util.ftp.FTPUtil;
+import com.aida.util.ftp.FTPConstant;
+import com.aida.util.ftp.FTPFactory;
+import com.aida.util.ftp.FTPUtil;
 
 import java.io.IOException;
 

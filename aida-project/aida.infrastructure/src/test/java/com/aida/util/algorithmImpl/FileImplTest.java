@@ -3,7 +3,7 @@ package com.aida.util.algorithmImpl;
 import org.junit.Test;
 
 import com.aida.util.TestUtil;
-import com.opslab.util.algorithmImpl.FileImpl;
+import com.aida.util.algorithmImpl.FileImpl;
 
 public class FileImplTest {
 

@@ -1,4 +1,4 @@
-package com.opslab.util.image.GIF;
+package com.aida.util.image.GIF;
 
 /**
  * Created by Administrator on 2016/4/23 0023.

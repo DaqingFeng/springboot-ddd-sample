@@ -1,6 +1,6 @@
 package com.aida.util;
 
-import com.infrastructure.common.SysUtil;
+import com.aida.utils.SysUtil;
 
 public class SysUtilTest {
 

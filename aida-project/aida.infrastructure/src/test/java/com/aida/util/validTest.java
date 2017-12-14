@@ -5,7 +5,7 @@ import junit.framework.TestCase;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.infrastructure.common.valid;
+import com.aida.utils.valid;
 
 public class validTest extends TestCase {
 

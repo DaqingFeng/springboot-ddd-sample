@@ -1,4 +1,4 @@
-package com.infrastructure.common;
+package com.aida.utils;
 
 /**
  * 一些常用的常量

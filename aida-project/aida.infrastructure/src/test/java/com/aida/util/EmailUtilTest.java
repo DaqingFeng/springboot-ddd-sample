@@ -3,7 +3,7 @@ package com.aida.util;
 import org.junit.Ignore;
 import org.junit.Test;
 
-import com.infrastructure.common.EmailUtil;
+import com.aida.utils.EmailUtil;
 
 import java.io.File;
 

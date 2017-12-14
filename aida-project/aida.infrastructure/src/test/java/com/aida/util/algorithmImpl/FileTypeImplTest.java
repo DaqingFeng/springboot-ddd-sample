@@ -4,7 +4,7 @@ import junit.framework.TestCase;
 import org.junit.Test;
 
 import com.aida.util.TestUtil;
-import com.opslab.util.algorithmImpl.FileTypeImpl;
+import com.aida.util.algorithmImpl.FileTypeImpl;
 
 import java.io.File;
 

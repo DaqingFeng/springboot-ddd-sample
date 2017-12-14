@@ -1,6 +1,6 @@
 package com.aida.util.encrypt;
 
-import com.opslab.util.encrypt.SecureHA;
+import com.aida.util.encrypt.SecureHA;
 
 import junit.framework.TestCase;
 

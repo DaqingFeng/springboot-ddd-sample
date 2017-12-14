@@ -1,7 +1,8 @@
 package com.aida.util;
 
-import com.infrastructure.common.RandomUtil;
-import com.opslab.helper.CollectionHelper;
+import com.aida.util.helper.CollectionHelper;
+import com.aida.utils.RandomUtil;
+
 import org.junit.Test;
 
 import java.util.HashMap;
@@ -9,7 +10,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-import static com.infrastructure.common.RandomUtil.integer;
+import static com.aida.utils.RandomUtil.integer;
 import static junit.framework.Assert.assertEquals;
 
 

@@ -1,4 +1,4 @@
-package com.opslab.util.ftp;
+package com.aida.util.ftp;
 
 import java.io.BufferedInputStream;
 import java.io.FileInputStream;
@@ -7,7 +7,7 @@ import java.io.InputStream;
 import java.net.URL;
 import java.util.Properties;
 
-import com.infrastructure.common.OpslabConfig;
+import com.aida.utils.OpslabConfig;
 
 /**
  * FTP工具类

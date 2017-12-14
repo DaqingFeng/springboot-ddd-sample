@@ -3,7 +3,7 @@ package com.aida.util;
 import junit.framework.TestCase;
 import org.junit.Test;
 
-import com.infrastructure.common.ExceptionUtil;
+import com.aida.utils.ExceptionUtil;
 
 /**
  * 测试异常工具类

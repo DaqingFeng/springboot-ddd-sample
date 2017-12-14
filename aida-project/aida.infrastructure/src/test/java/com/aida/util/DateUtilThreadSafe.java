@@ -3,7 +3,7 @@ package com.aida.util;
 import java.text.ParseException;
 import java.util.Date;
 
-import com.infrastructure.common.DateUtil;
+import com.aida.utils.DateUtil;
 
 import static org.junit.Assert.assertEquals;
 

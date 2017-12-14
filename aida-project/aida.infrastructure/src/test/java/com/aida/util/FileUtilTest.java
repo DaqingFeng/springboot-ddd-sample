@@ -2,8 +2,8 @@ package com.aida.util;
 
 import org.junit.Test;
 
-import com.infrastructure.common.CharsetUtil;
-import com.infrastructure.common.FileUtil;
+import com.aida.utils.CharsetUtil;
+import com.aida.utils.FileUtil;
 
 import java.io.File;
 import java.io.IOException;

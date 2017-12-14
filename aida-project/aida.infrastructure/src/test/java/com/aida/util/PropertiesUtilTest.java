@@ -2,7 +2,7 @@ package com.aida.util;
 
 import org.junit.Test;
 
-import com.infrastructure.common.PropertiesUtil;
+import com.aida.utils.PropertiesUtil;
 
 import java.nio.charset.Charset;
 

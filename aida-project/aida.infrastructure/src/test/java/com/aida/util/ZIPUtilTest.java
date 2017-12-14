@@ -2,8 +2,8 @@ package com.aida.util;
 
 import org.junit.Test;
 
-import com.infrastructure.common.SysUtil;
-import com.infrastructure.common.ZIPUtil;
+import com.aida.utils.SysUtil;
+import com.aida.utils.ZIPUtil;
 
 import java.io.File;
 

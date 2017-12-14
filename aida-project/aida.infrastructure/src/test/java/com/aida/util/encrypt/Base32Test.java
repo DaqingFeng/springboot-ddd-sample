@@ -1,6 +1,6 @@
 package com.aida.util.encrypt;
 
-import com.opslab.util.encrypt.Base32;
+import com.aida.util.encrypt.Base32;
 
 import junit.framework.TestCase;
 

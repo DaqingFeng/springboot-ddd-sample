@@ -1,9 +1,9 @@
-package com.opslab.util.web;
+package com.aida.util.web;
 
 import java.io.UnsupportedEncodingException;
 
-import com.infrastructure.common.ConvertUtil;
-import com.infrastructure.common.StringUtil;
+import com.aida.utils.ConvertUtil;
+import com.aida.utils.StringUtil;
 
 /**
  * 提供Web相关的个工具类

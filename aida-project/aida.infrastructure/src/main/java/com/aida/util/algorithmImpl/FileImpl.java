@@ -1,4 +1,4 @@
-package com.opslab.util.algorithmImpl;
+package com.aida.util.algorithmImpl;
 
 
 import org.mozilla.intl.chardet.nsDetector;

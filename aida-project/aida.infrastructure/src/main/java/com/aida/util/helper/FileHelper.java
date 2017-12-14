@@ -1,8 +1,9 @@
-package com.opslab.helper;
+package com.aida.util.helper;
 
-import com.opslab.functions.ObjectHandler;
-import com.opslab.functions.ObjectProcess;
 import org.apache.log4j.Logger;
+
+import com.aida.util.functions.ObjectHandler;
+import com.aida.util.functions.ObjectProcess;
 
 import java.io.*;
 import java.util.ArrayList;

@@ -2,8 +2,8 @@ package com.aida.util;
 
 import org.junit.Test;
 
-import com.infrastructure.common.CharsetUtil;
-import com.infrastructure.common.StreamUtil;
+import com.aida.utils.CharsetUtil;
+import com.aida.utils.StreamUtil;
 
 import static org.junit.Assert.assertEquals;
 import java.io.InputStream;

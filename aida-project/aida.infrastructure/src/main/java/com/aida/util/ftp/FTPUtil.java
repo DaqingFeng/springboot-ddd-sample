@@ -1,4 +1,4 @@
-package com.opslab.util.ftp;
+package com.aida.util.ftp;
 
 
 import org.apache.commons.net.ftp.FTPClient;

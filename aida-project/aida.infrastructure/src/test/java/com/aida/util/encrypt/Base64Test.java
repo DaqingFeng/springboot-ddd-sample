@@ -3,7 +3,7 @@ package com.aida.util.encrypt;
 import junit.framework.TestCase;
 import org.junit.Test;
 
-import com.opslab.util.encrypt.Base64;
+import com.aida.util.encrypt.Base64;
 
 public class Base64Test extends TestCase {
     String text = "There can be miracles when you believe";

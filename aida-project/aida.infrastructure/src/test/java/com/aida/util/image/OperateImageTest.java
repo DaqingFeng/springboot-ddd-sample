@@ -5,7 +5,7 @@ import junit.framework.TestCase;
 import javax.imageio.ImageIO;
 
 import com.aida.util.TestUtil;
-import com.opslab.util.image.OperateImage;
+import com.aida.util.image.OperateImage;
 
 import java.awt.*;
 import java.awt.image.BufferedImage;

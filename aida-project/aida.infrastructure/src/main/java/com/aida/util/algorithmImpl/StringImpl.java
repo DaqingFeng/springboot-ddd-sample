@@ -1,11 +1,11 @@
-package com.opslab.util.algorithmImpl;
+package com.aida.util.algorithmImpl;
 
 import java.io.ByteArrayInputStream;
 import java.io.InputStream;
 import java.io.UnsupportedEncodingException;
 
-import com.infrastructure.common.CharsetUtil;
-import com.infrastructure.common.SysUtil;
+import com.aida.utils.CharsetUtil;
+import com.aida.utils.SysUtil;
 
 /**
  * 对比俩个字符串的相似度

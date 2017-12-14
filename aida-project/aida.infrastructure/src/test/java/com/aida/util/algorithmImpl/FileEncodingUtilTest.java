@@ -6,7 +6,7 @@ import java.io.File;
 import java.io.FilenameFilter;
 
 import com.aida.util.TestUtil;
-import com.opslab.util.algorithmImpl.FileEncodingUtil;
+import com.aida.util.algorithmImpl.FileEncodingUtil;
 
 public class FileEncodingUtilTest extends TestCase {
 

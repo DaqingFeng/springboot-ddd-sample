@@ -4,7 +4,7 @@ import junit.framework.TestCase;
 
 import java.awt.*;
 
-import com.opslab.util.image.ColorUtil;
+import com.aida.util.image.ColorUtil;
 
 /**
  * 测试

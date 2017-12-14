@@ -3,7 +3,7 @@ package com.aida.util;
 
 import org.junit.Test;
 
-import com.infrastructure.common.StringUtil;
+import com.aida.utils.StringUtil;
 
 import java.io.UnsupportedEncodingException;
 import java.util.List;
