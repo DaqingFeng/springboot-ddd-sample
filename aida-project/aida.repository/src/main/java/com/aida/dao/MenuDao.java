@@ -12,7 +12,7 @@ import com.ctrip.platform.dal.dao.helper.DalDefaultJpaParser;
 
 public class MenuDao {
 	private static final boolean ASC = true;
-	private DalTableDao<Menu> client;
+	protected DalTableDao<Menu> client;
 	
 	public MenuDao() throws SQLException {
 		this.client = new DalTableDao<>(new DalDefaultJpaParser<>(Menu.class));

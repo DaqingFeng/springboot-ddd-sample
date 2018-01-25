@@ -17,6 +17,7 @@
 		<!-- Local Jar -->
 		<aidadto.version>1.0.0</aidadto.version>
 		<aida.repository>1.0.0</aida.repository>
+		<aidaquerySide.version>1.0.0</aidaquerySide.version>
 		<aida.infrastructure.version>1.0.0</aida.infrastructure.version>
 	</properties>
 
@@ -33,6 +34,12 @@
 			<groupId>com.aida.dto</groupId>
 			<artifactId>aida.dto</artifactId>
 			<version>${aidadto.version}</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.aida.queryside</groupId>
+			<artifactId>aida.queryside</artifactId>
+			<version>${aidaquerySide.version}</version>
 		</dependency>
 
 		<dependency>
@@ -76,9 +83,11 @@
             -->
             <scope>provided</scope>
         </dependency>
-	    
-	  </dependencies>
-	 <build>
+
+
+	</dependencies>
+	 
+	  <build>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -97,5 +106,5 @@
                 </configuration>
             </plugin>
         </plugins>
-    </build>
+     </build>
 </project>

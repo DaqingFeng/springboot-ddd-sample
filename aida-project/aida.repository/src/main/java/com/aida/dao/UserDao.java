@@ -12,7 +12,8 @@ import com.ctrip.platform.dal.dao.helper.DalDefaultJpaParser;
 
 public class UserDao {
 	private static final boolean ASC = true;
-	private DalTableDao<User> client;
+
+	protected DalTableDao<User> client;
 	
 	public UserDao() throws SQLException {
 		this.client = new DalTableDao<>(new DalDefaultJpaParser<>(User.class));

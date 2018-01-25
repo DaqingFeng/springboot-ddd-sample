@@ -52,5 +52,4 @@
 	-->
  
 	<bean id="requestDataValueProcessor" class="org.springframework.security.web.servlet.support.csrf.CsrfRequestDataValueProcessor"/>
-	 
 </beans>

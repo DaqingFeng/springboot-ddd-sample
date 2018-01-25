@@ -7,7 +7,7 @@
     <artifactId>aida.infrastructure</artifactId>
     <version>1.0.0</version>
 
-    <name>opslabJutil</name>
+    <name>aida.infrastructure</name>
     <description>Simple and convenient to use it to accomplish common development java code</description>
     <url>https://github.com/0opslab/opslabJutil</url>
 
@@ -18,13 +18,6 @@
         </license>
     </licenses>
 
-    <developers>
-        <developer>
-            <name>devopslab</name>
-            <email>438558488@qq.com</email>
-            <url>http://0opslab.com/</url>
-        </developer>
-    </developers>
 
     <scm>
         <connection>scm:git:https://github.com/0opslab/utils</connection>
@@ -33,6 +26,7 @@
     </scm>
 
     <properties>
+        <org.mapstruct.version>1.2.0.Final</org.mapstruct.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <dependencies>
@@ -108,25 +102,17 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.1</version>
+                <version>3.5.1</version>
                 <configuration>
-                    <source>1.7</source>
-                    <target>1.7</target>
-                    <encoding>UTF-8</encoding>
-                </configuration>
-            </plugin>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-surefire-plugin</artifactId>
-                <version>2.5</version>
-                <configuration>
-                    <forkMode>once</forkMode>
-                    <argLine>-Dfile.encoding=UTF-8</argLine>
-                    <includes>
-                        <include>**/*Test.java</include>
-                    </includes>
-                    <excludes>
-                    </excludes>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                    <annotationProcessorPaths>
+                        <path>
+                            <groupId>org.mapstruct</groupId>
+                            <artifactId>mapstruct-processor</artifactId>
+                            <version>${org.mapstruct.version}</version>
+                        </path>
+                    </annotationProcessorPaths>
                 </configuration>
             </plugin>
         </plugins>

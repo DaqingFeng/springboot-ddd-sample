@@ -5,7 +5,7 @@
 	<artifactId>aidaweb</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>aida Maven Webapp</name>
+	<name>aida.web</name>
 	<url>http://maven.apache.org</url>
 
 	<!-- 继承父包 -->
@@ -29,7 +29,6 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
-
 	<dependencies>
 		<!-- spring-boot的web启动的jar包 -->
 		<dependency>
@@ -42,7 +41,6 @@
 			<groupId>javax.servlet</groupId>
 			<artifactId>jstl</artifactId>
 		</dependency>
-
 		
         <dependency>
 		  <groupId>javax.servlet</groupId>
@@ -94,7 +92,6 @@
 			<artifactId>aida.domain</artifactId>
 			<version>${aida.domain.version}</version>
 		</dependency>
-
 	</dependencies>
 
 	<!--maven的插件 -->

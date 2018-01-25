@@ -6,9 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="aida.domain" />
+        <module name="aida.dto" />
+        <module name="aida.infrastructure" />
+        <module name="aida.queryside" />
+        <module name="aida.repository" />
+        <module name="aida.web" />
+        <module name="dal-client" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="aida.domain" target="1.8" />
+      <module name="aida.dto" target="1.8" />
+      <module name="aida.infrastructure" target="1.8" />
+      <module name="aida.queryside" target="1.8" />
+      <module name="aida.repository" target="1.7" />
+      <module name="aida.web" target="1.8" />
+      <module name="dal-client" target="1.7" />
       <module name="test" target="1.5" />
     </bytecodeTargetLevel>
   </component>

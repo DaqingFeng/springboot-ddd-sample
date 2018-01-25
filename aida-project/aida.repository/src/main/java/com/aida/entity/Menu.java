@@ -15,7 +15,7 @@ import java.sql.Timestamp;
 import com.ctrip.platform.dal.dao.DalPojo;
 
 @Entity
-@Database(name="AIDA Project")
+@Database(name="AIDA")
 @Table(name="tb_menu")
 public class Menu implements DalPojo {
 
