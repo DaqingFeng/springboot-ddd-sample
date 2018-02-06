@@ -7,6 +7,7 @@ import com.aida.dto.user.UserInfoRequest;
 import com.aida.dto.user.UserSaveRequest;
 
 import com.aida.entity.User;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -37,8 +38,14 @@ public class RestHelloWorld {
      return   UserAggregate.GetInstnace().UpdateUserInfo(req );
    }
 
-    @RequestMapping(value = "/GetHelloWorldTXT", method = RequestMethod.GET)
+    @GetMapping("/GetHelloWorldTXT")
     public String GetHelloWorldTXT(@RequestParam String name) {
         return String.format("Hello World %s", name);
+    }
+    @PostMapping("/UserInfo")
+    public UerInfoResponse UserInfo(@RequestBody UserSaveRequest req) {
+        UerInfoResponse response=new UerInfoResponse();
+        response.setUserName(req.getUserName());
+        return  response;
     }
 }

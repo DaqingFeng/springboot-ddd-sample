@@ -8,11 +8,10 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
-
 /**
- * Hello world!
+ * Created by fengdaqing on 2018/1/31.
  */
-public class App {
+public class AppCallable {
     public static void main(String[] args) {
         ExecutorService service = Executors.newFixedThreadPool(4);
         List<Future> resultList = new ArrayList<>();
@@ -27,7 +26,10 @@ public class App {
         for (Future future : resultList) {
             try {
                 Object rst = future.get();
-                System.out.println(String.format("Calculate! s%", rst));
+                if (rst instanceof Integer) {
+                    System.out.println("Is Integer");
+                }
+                System.out.println(String.format("Calculate! %s", rst));
             } catch (InterruptedException | ExecutionException e) {
                 e.printStackTrace();
             }
