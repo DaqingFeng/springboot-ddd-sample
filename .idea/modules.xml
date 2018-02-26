@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/aida-project/aida.console/aida.console.iml" filepath="$PROJECT_DIR$/aida-project/aida.console/aida.console.iml" />
       <module fileurl="file://$PROJECT_DIR$/aida-project/aida.domain/aida.domain.iml" filepath="$PROJECT_DIR$/aida-project/aida.domain/aida.domain.iml" />
       <module fileurl="file://$PROJECT_DIR$/aida-project/aida.dto/aida.dto.iml" filepath="$PROJECT_DIR$/aida-project/aida.dto/aida.dto.iml" />
       <module fileurl="file://$PROJECT_DIR$/aida-project/aida.infrastructure/aida.infrastructure.iml" filepath="$PROJECT_DIR$/aida-project/aida.infrastructure/aida.infrastructure.iml" />

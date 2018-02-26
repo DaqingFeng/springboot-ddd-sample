@@ -266,7 +266,7 @@ public final class RandomUtil {
         Long date = new Date().getTime();
         String s = UUID.randomUUID().toString();
         String str = Long.toHexString(date);
-        String result = str + OpslabConfig.HOST_FEATURE
+        String result = str + Constant.HOST_FEATURE
                 + s.substring(17, 18) + s.substring(19, 23) + s.substring(24);
         return result.toUpperCase();
     }

@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/aida-project/dal-client/pom.xml" />
         <option value="$PROJECT_DIR$/aida-project/aida.web/pom.xml" />
         <option value="$PROJECT_DIR$/aida-project/aida.repository/pom.xml" />
+        <option value="$PROJECT_DIR$/aida-project/aida.console/pom.xml" />
       </list>
     </option>
   </component>

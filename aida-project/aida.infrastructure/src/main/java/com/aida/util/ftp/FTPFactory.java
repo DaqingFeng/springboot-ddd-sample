@@ -1,13 +1,8 @@
 package com.aida.util.ftp;
 
-import java.io.BufferedInputStream;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.net.URL;
-import java.util.Properties;
-
 import com.aida.utils.OpslabConfig;
+
+import java.io.IOException;
 
 /**
  * FTP工具类
