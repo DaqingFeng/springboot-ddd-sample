@@ -11,8 +11,7 @@ Keywoards.
 * Project structure
     <img src="https://raw.githubusercontent.com/DaqingFeng/Springboot-domain-driver-design/master/picture/project.png">
     
-* Home sample
-    <img src="https://raw.githubusercontent.com/DaqingFeng/Springboot-domain-driver-design/master/picture/homepage.png">
-
+* Assets use taglib to version management.
+    <img src="https://raw.githubusercontent.com/DaqingFeng/Springboot-domain-driver-design/master/picture/home.png">
 
  Continue....
