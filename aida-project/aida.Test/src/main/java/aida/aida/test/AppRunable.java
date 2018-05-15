@@ -40,7 +40,7 @@ public class AppRunable {
             } while (index<resultList.size());
 
             if (isOk) {
-                System.out.println("  Finished  Job!");
+                System.out.println("Finished  Job!");
                 break;
             }
         }

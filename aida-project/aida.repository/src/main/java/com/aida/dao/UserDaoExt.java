@@ -1,11 +1,8 @@
 package com.aida.dao;
 
-import com.aida.entity.Menu;
 import com.aida.entity.User;
-import com.ctrip.platform.dal.common.enums.DatabaseCategory;
 import com.ctrip.platform.dal.dao.DalHints;
 import com.ctrip.platform.dal.dao.StatementParameters;
-import com.ctrip.platform.dal.dao.sqlbuilder.FreeUpdateSqlBuilder;
 
 import java.sql.SQLException;
 import java.sql.Types;

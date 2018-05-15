@@ -1,7 +1,5 @@
 package com.aida.util.algorithmImpl;
 
-import java.io.ByteArrayInputStream;
-import java.io.InputStream;
 import java.io.UnsupportedEncodingException;
 
 import com.aida.utils.CharsetUtil;
@@ -142,7 +140,7 @@ public class StringImpl {
     public static String simpleEncoding(String str) {
         try{
             byte[] bs = str.getBytes(SysUtil.JVM_ENCODING);
-            if(str.equals(new String(bs,CharsetUtil.UTF_8))){
+            if(str.equals(new String(bs, CharsetUtil.UTF_8))){
                 return CharsetUtil.UTF_8;
             }
             if(str.equals(new String(bs,CharsetUtil.GBK))){

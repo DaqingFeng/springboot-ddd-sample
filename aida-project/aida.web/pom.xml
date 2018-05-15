@@ -1,120 +1,99 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.aida.web</groupId>
-	<artifactId>aidaweb</artifactId>
-	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>aida.web</name>
-	<url>http://maven.apache.org</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <!-- 继承父包 -->
+    <parent>
+        <groupId>aida.integration</groupId>
+        <artifactId>aida.integration</artifactId>
+        <version>1.0-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
 
-	<!-- 继承父包 -->
-	<parent>
-		<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.5.9.RELEASE</version>
-		<relativePath></relativePath>
-	</parent>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>aida.web</artifactId>
+    <packaging>war</packaging>
+    <url>http://maven.apache.org</url>
 
-	<properties>
-		<java.version>1.8</java.version>
-		<jstl.version>1.2</jstl.version>
-		<jstl.api.version>3.0.1</jstl.api.version>
-		<taglibs.version>1.1.2</taglibs.version>
-		<!-- Local Jar -->
-		<dal-client-version>1.12.0</dal-client-version>
-		<aida.dto.version>1.0.0</aida.dto.version>
-		<aida.infrastructure.version>1.0.0</aida.infrastructure.version>
-		<aida.domain.version>1.0.0</aida.domain.version>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-	</properties>
+    <properties>
+        <servlet.api.version>2.5</servlet.api.version>
+        <taglibs.version>1.1.2</taglibs.version>
+        <fastJSON.Version>1.2.41</fastJSON.Version>
+    </properties>
 
-	<dependencies>
-		<!-- spring-boot的web启动的jar包 -->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
-		</dependency>
-		<!-- spring boot end -->
-
-		<dependency>
-			<groupId>javax.servlet</groupId>
-			<artifactId>jstl</artifactId>
-		</dependency>
-		
+    <dependencies>
+        <!--Parent Module-->
         <dependency>
-		  <groupId>javax.servlet</groupId>
-		  <artifactId>javax.servlet-api</artifactId>
-		  <scope>provided</scope>
-		</dependency>
-    
-		<dependency>
-			<groupId>jstl</groupId>
-			<artifactId>jstl</artifactId>
-			<version>${jstl.version}</version>
-			<scope>provided</scope>
-		</dependency>
+            <groupId>aida.integration</groupId>
+            <artifactId>aida.dto</artifactId>
+            <version>${project.version}</version>
+        </dependency>
 
+        <dependency>
+            <groupId>aida.integration</groupId>
+            <artifactId>aida.dto</artifactId>
+            <version>${project.version}</version>
+        </dependency>
 
-		<!-- Security (used for CSRF protection only) -->
-		<dependency>
-			<groupId>org.springframework.security</groupId>
-			<artifactId>spring-security-web</artifactId>
-		</dependency>
+        <dependency>
+            <groupId>aida.integration</groupId>
+            <artifactId>aida.application</artifactId>
+            <version>${project.version}</version>
+        </dependency>
 
-		<!-- https://mvnrepository.com/artifact/taglibs/standard -->
-		<dependency>
-			<groupId>taglibs</groupId>
-			<artifactId>standard</artifactId>
-			<version>${taglibs.version}</version>
-		</dependency>
+        <dependency>
+            <groupId>aida.integration</groupId>
+            <artifactId>dal-client</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <!--End parent Module-->
 
-		<dependency>
-			<groupId>com.ctrip.platform</groupId>
-			<artifactId>dal-client</artifactId>
-			<version>${dal-client-version}</version>
-		</dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.springframework.boot</groupId>
+                    <artifactId>spring-boot-starter-logging</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
 
-		<dependency>
-			<groupId>com.aida.dto</groupId>
-			<artifactId>aida.dto</artifactId>
-			<version>${aida.dto.version}</version>
-		</dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-tomcat</artifactId>
+        </dependency>
 
-		<dependency>
-			<groupId>com.aida.infrastructure</groupId>
-			<artifactId>aida.infrastructure</artifactId>
-			<version>${aida.infrastructure.version}</version>
-		</dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-freemarker</artifactId>
+        </dependency>
 
-		<dependency>
-			<groupId>com.aida.domain</groupId>
-			<artifactId>aida.domain</artifactId>
-			<version>${aida.domain.version}</version>
-		</dependency>
-	</dependencies>
+        <!-- spring boot 内置tomcat jsp支持 -->
+        <dependency>
+            <groupId>org.apache.tomcat.embed</groupId>
+            <artifactId>tomcat-embed-jasper</artifactId>
+            <scope>provided</scope>
+        </dependency>
 
-	<!--maven的插件 -->
-	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-		</plugins>
+        <!--jsp-->
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>jstl</artifactId>
+        </dependency>
 
-		<!-- 配置java版本 不配置的话默认父类配置的是1.6 -->
-		<pluginManagement>
-			<plugins>
-				<plugin>
-					<artifactId>maven-compiler-plugin</artifactId>
-					<configuration>
-						<source>1.8</source>
-						<target>1.8</target>
-					</configuration>
-				</plugin>
-			</plugins>
-		</pluginManagement>
-	</build>
+        <dependency>
+            <groupId>taglibs</groupId>
+            <artifactId>standard</artifactId>
+            <version>${taglibs.version}</version>
+        </dependency>
+
+        <!--ThirdPart Jar -->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>${fastJSON.Version}</version>
+        </dependency>
+    </dependencies>
 
 </project>

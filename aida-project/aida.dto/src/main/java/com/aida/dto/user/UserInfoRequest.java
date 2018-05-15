@@ -2,8 +2,6 @@ package com.aida.dto.user;
 
 import com.aida.dto.basic.BaseQueryRequest;
 
-import java.sql.Types;
-
 /**
  * Created by fengdaqing on 2017/12/28.
  */

@@ -1,12 +1,10 @@
 package com.aida.dao;
 
+import com.aida.entity.Role;
 import com.ctrip.platform.dal.dao.*;
 import com.ctrip.platform.dal.dao.sqlbuilder.*;
 import java.sql.SQLException;
-import java.sql.Timestamp;
-import java.sql.Types;
 import java.util.List;
-import com.aida.entity.Role;
 
 import com.ctrip.platform.dal.dao.helper.DalDefaultJpaParser;
 

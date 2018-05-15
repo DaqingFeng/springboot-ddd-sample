@@ -3,7 +3,6 @@ package com.aida.utils;
 import java.io.*;
 import java.math.BigInteger;
 import java.net.FileNameMap;
-import java.net.MalformedURLException;
 import java.net.URLConnection;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
