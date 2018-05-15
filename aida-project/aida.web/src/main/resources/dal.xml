@@ -1,7 +1,0 @@
-<dal name="aida">
-	<databaseSets>
-		<databaseSet name="AIDA" provider="mySqlProvider">
-            <add name="AIDA" databaseType="Master" sharding="" connectionString="AIDA"/>
-		</databaseSet>
-	</databaseSets>
-</dal>

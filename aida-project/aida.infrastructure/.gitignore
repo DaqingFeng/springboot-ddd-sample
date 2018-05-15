@@ -1,9 +1,0 @@
-target/
-src/test/resource/temp/
-.idea/
-*.iml
-.DB_Store
-.DB_Store?
-*.log
-.DS_Store
-.DS_Store?
