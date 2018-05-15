@@ -11,11 +11,6 @@ import org.springframework.boot.web.support.SpringBootServletInitializer;
 @SpringBootApplication
 public class applicationMain extends SpringBootServletInitializer {
 
-    public applicationMain() {
-        super();
-        setRegisterErrorPageFilter(false); // <- this one
-    }
-
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
         return application.sources(applicationMain.class);

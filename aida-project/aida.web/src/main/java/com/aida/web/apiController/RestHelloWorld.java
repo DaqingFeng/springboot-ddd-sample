@@ -1,7 +1,6 @@
 package com.aida.web.apiController;
 
 
-
 import com.aida.domain.UserAggregate;
 import com.aida.dto.user.UerInfoResponse;
 import com.aida.dto.user.UserInfoRequest;
@@ -38,7 +37,7 @@ public class RestHelloWorld {
         return UserAggregate.GetInstnace().UpdateUserInfo(req);
     }
 
-    @GetMapping("/GetHelloWorldTXT")
+    @GetMapping(value = "/GetHelloWorldTXT", produces = "text/plain;charset=UTF-8")
     public String GetHelloWorldTXT(@RequestParam String name) {
         return String.format("Hello World %s", name);
     }

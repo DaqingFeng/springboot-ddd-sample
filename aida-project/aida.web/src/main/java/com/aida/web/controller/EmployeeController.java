@@ -16,7 +16,7 @@ import java.util.List;
 @RequestMapping(value = "Employee")
 public class EmployeeController {
 
-    @GetMapping("/index")
+    @GetMapping({"/", "/index"})
     public String FreeMk(Model model, @RequestParam(value = "name", required = false) String name) {
         List<String> employess = new ArrayList<>();
         employess.add("Andy");

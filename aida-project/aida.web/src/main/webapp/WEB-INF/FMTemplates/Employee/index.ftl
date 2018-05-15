@@ -17,6 +17,6 @@
     </#list>
 </ui>
 </#if>
-<label>${springMacroRequestContext.getLocale()}</label>
+<label>${springMacroRequestContext.getContextPath()}</label>
 </body>
 </html>
