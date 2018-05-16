@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="aida.web:war">
-    <output-path>$PROJECT_DIR$/aida-project/aida.web/target</output-path>
-    <root id="archive" name="aidaweb-0.0.1-SNAPSHOT.war">
-      <element id="artifact" artifact-name="aida.web:war exploded" />
-    </root>
-  </artifact>
-</component>
