@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: javax.servlet:javax.servlet:3.0.0.v201103241009">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet/3.0.0.v201103241009/javax.servlet-3.0.0.v201103241009.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet/3.0.0.v201103241009/javax.servlet-3.0.0.v201103241009-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet/3.0.0.v201103241009/javax.servlet-3.0.0.v201103241009-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
