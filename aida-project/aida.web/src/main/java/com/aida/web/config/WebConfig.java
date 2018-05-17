@@ -1,11 +1,8 @@
 package com.aida.web.config;
 
-import org.springframework.context.annotation.Bean;
+import com.aida.web.filter.BaseInterceptor;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.web.filter.CharacterEncodingFilter;
 import org.springframework.web.servlet.config.annotation.*;
-
-import javax.servlet.Filter;
 
 /**
  * Created by fengdaqing on 2018/5/15.
@@ -28,5 +25,10 @@ public class WebConfig extends WebMvcConfigurerAdapter {
                         "/WEB-INF/resources/Images/",
                         "/WEB-INF/resources/CSS/",
                         "/WEB-INF/resources/Scripts/");
+    }
+
+    @Override
+    public void addInterceptors(InterceptorRegistry registry) {
+        registry.addInterceptor(new BaseInterceptor());
     }
 }
