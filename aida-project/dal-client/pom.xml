@@ -24,6 +24,8 @@
         <spring-version>4.3.6.RELEASE</spring-version>
         <javax-persistence-version>1.0.2</javax-persistence-version>
         <cglib-nodep-version>2.1_3</cglib-nodep-version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
 
     <dependencies>
