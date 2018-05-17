@@ -9,9 +9,15 @@ Keywoards.
 5.   DAL Common using  https://github.com/ctripcorp/dal
 
 
+
+
 * Project structure
 
     <img src="https://raw.githubusercontent.com/DaqingFeng/Springboot-domain-driver-design/master/picture/project.png">
+    
+    
+    
+    
     
     
     
@@ -24,11 +30,15 @@ Keywoards.
     
     
     
+    
+    
 
 * Freemarker Include shared ftl file and reference opposite javascript and css file.
 
      <img src="https://raw.githubusercontent.com/DaqingFeng/Springboot-domain-driver-design/master/picture/freemarker.png">
      
-     
+   
+   
+   
      
  to be Continue....
