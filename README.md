@@ -15,7 +15,10 @@ Keywoards.
     
     
     
-* Assets use taglib to version management.
+* Jsp using resource javascript and css file (with version manage).
     <img src="https://raw.githubusercontent.com/DaqingFeng/Springboot-domain-driver-design/master/picture/home.png">
 
+ * Freemarker Include shared ftl file and reference opposite javascript and css file.
+     <img src="https://raw.githubusercontent.com/DaqingFeng/Springboot-domain-driver-design/master/picture/freemarker.png">
+     
  Continue....
