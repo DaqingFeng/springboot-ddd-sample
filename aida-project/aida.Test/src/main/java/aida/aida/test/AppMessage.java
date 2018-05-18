@@ -1,6 +1,8 @@
 package aida.aida.test;
 
 
+import org.junit.Test;
+
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 
@@ -9,7 +11,9 @@ import java.util.concurrent.BlockingQueue;
  * Created by fengdaqing on 2018/2/1.
  */
 public class AppMessage {
-    public static void main(String[] args) {
+
+    @Test
+    public void TestQueue() {
         try {
             BlockingQueue<Message> blockqueue = new ArrayBlockingQueue<Message>(5000);
             MessageContainer producer = new MessageContainer(blockqueue);

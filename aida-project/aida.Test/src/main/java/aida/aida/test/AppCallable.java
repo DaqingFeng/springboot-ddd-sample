@@ -1,5 +1,7 @@
 package aida.aida.test;
 
+import org.junit.Test;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -12,7 +14,9 @@ import java.util.concurrent.Future;
  * Created by fengdaqing on 2018/1/31.
  */
 public class AppCallable {
-    public static void main(String[] args) {
+
+    @Test
+    public void  callAbleTest() {
         ExecutorService service = Executors.newFixedThreadPool(4);
         List<Future> resultList = new ArrayList<>();
         Random random = new Random();

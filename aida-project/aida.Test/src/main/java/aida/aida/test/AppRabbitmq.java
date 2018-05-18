@@ -1,20 +1,17 @@
 package aida.aida.test;
 
+
 import com.aida.util.rabbitmq.RabbitmqConsumer;
 import com.aida.util.rabbitmq.RabbitmqProducer;
-
+import org.junit.Test;
 
 /**
  * Hello world!
  */
 public class AppRabbitmq {
 
-    public static String rqGetMessage(String message) {
-        System.out.println(message);
-        return message;
-    }
-
-    static void rqProducer() {
+    @Test
+    public void rqProducer() {
         try {
             RabbitmqProducer producer = new RabbitmqProducer("amqp://sc:Yiguo%40sc@172.17.7.207:5672/sc");
             producer.setExchange("ex_commodity");
@@ -25,7 +22,8 @@ public class AppRabbitmq {
         }
     }
 
-    static void rqComsumer() {
+    @Test
+    public void rqComsumer() {
         try {
             RabbitmqConsumer producer = new RabbitmqConsumer("amqp://sc:Yiguo%40sc@172.17.7.207:5672/sc");
             producer.setExchange("ex_commodity");
@@ -36,13 +34,8 @@ public class AppRabbitmq {
         }
     }
 
-    static void GenronateMessage() {
-        for (Integer i = 0; i < 50; i++) {
-            rqProducer();
-        }
-    }
-
-    public static void main(String[] args) {
-        GenronateMessage();
+    public static String rqGetMessage(String message) {
+        System.out.println(message);
+        return message;
     }
 }

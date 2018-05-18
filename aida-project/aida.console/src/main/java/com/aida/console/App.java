@@ -18,9 +18,9 @@ public class App {
         return message;
     }
 
-    static void Producer() {
+      static void Producer() {
         try {
-            RabbitmqProducer producer = new RabbitmqProducer("amqp://sc:Yiguo%40sc@127.0.0.1:5672/sc");
+            RabbitmqProducer producer = new RabbitmqProducer("amqp://sc:Yiguo%40sc@172.17.7.207:5672/sc");
             producer.setExchange("ex_commodity");
             producer.setQueueName("queue_stock_test");
             producer.SendMessage("Hello World");
@@ -29,9 +29,9 @@ public class App {
         }
     }
 
-    static void Comsumer() {
+      static void Comsumer() {
         try {
-            RabbitmqConsumer producer = new RabbitmqConsumer("amqp://sc:Yiguo%40sc@127.0.0.1:5672/sc");
+            RabbitmqConsumer producer = new RabbitmqConsumer("amqp://sc:Yiguo%40sc@172.17.7.207:5672/sc");
             producer.setExchange("ex_commodity");
             producer.setQueueName("queue_stock_test");
             producer.Receive(App::GetMessage);

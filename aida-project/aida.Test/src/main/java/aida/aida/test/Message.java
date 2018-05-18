@@ -5,14 +5,17 @@ package aida.aida.test;
  */
 public class Message {
 
-    private  String Content;
+    private String Content;
 
-    private  MessageEnumType MessageType;
+    private MessageEnumType MessageType;
 
-     public  Message(String content)
-     {
-         Content=content;
-     }
+    public Message() {
+
+    }
+
+    public Message(String content) {
+        Content = content;
+    }
 
     public MessageEnumType getMessageType() {
         return MessageType;
@@ -21,7 +24,6 @@ public class Message {
     public void setMessageType(MessageEnumType messageType) {
         MessageType = messageType;
     }
-
 
 
     public String getContent() {

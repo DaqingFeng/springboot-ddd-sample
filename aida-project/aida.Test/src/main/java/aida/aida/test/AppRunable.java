@@ -1,5 +1,7 @@
 package aida.aida.test;
 
+import org.junit.Test;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -11,9 +13,11 @@ import java.util.concurrent.TimeUnit;
 /**
  * Created by fengdaqing on 2018/1/31.
  */
-public class AppRunable {
-    public static void main(String[] args) {
 
+public class AppRunable {
+
+    @Test
+    public void TestRunable() {
         ScheduledExecutorService executor = Executors.newScheduledThreadPool(5);
         List<ScheduledFuture> resultList = new ArrayList<>();
         Random random = new Random();
