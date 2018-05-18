@@ -35,4 +35,9 @@ Keywoards.
      <img src="https://raw.githubusercontent.com/DaqingFeng/Springboot-domain-driver-design/master/picture/freemarker.png">
      
 
+* maven-assembly-plugin  Packing Rabbitmq consumer
+    
+    <img src="https://raw.githubusercontent.com/DaqingFeng/Springboot-domain-driver-design/master/picture/rabbitmq.png">
+      <img src="https://raw.githubusercontent.com/DaqingFeng/Springboot-domain-driver-design/master/picture/rabbitmqConsumer.png">
+
  to be Continue....
