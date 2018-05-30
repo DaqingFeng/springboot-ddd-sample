@@ -38,7 +38,6 @@ public class AppCallable {
                 e.printStackTrace();
             }
         }
-        boolean isFinished = true;
         //shut down the executor service no
         System.out.println("Hello World!");
     }

@@ -17,12 +17,16 @@ public class MessageExcute implements Runnable {
     public void run() {
         while (true) {
             try {
-                Message msg = queue.take();
-                if (msg.getContent().toUpperCase() == "EXIT") {
-                    break;
+                Thread.sleep(200);
+                while (!queue.isEmpty()) {
+                    try {
+                        Message msg = queue.take();
+                        System.out.println(msg.getContent());
+                    } catch (InterruptedException ex) {
+                        ex.printStackTrace();
+                    }
                 }
-                System.out.println(msg.getContent());
-            } catch (InterruptedException ex) {
+            } catch (Exception ex) {
                 ex.printStackTrace();
             }
         }
