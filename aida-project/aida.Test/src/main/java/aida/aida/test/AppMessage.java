@@ -3,9 +3,7 @@ package aida.aida.test;
 
 import org.junit.Test;
 
-import java.util.concurrent.ArrayBlockingQueue;
-import java.util.concurrent.BlockingQueue;
-import java.util.concurrent.LinkedBlockingQueue;
+import java.util.concurrent.*;
 
 
 /**
@@ -16,6 +14,7 @@ public class AppMessage {
     @Test
     public void TestQueue() {
         try {
+
             BlockingQueue<Message> blockqueue = new LinkedBlockingQueue<Message>();
             MessageContainer producer = new MessageContainer(blockqueue);
             producer.run();
