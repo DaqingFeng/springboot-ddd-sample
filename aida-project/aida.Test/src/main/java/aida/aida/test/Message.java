@@ -2,6 +2,8 @@ package aida.aida.test;
 
 import java.util.Comparator;
 import java.util.Objects;
+import java.util.concurrent.Delayed;
+import java.util.concurrent.TimeUnit;
 
 /**
  * Created by fengdaqing on 2018/2/1.
@@ -73,5 +75,6 @@ public class Message implements Comparable<Message> {
     public int hashCode() {
        return Objects.hash(Title);
     }
+
 }
 

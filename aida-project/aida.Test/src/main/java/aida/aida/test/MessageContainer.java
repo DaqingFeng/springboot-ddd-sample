@@ -16,10 +16,9 @@ public class MessageContainer implements  Runnable {
     @Override
     public void run() {
         //produce messages
-        for(int i=0; i<1000; i++){
+        for(int i=0; i<3; i++){
             Message msg = new Message(""+i);
             try {
-                Thread.sleep(i);
                 queue.put(msg);
                 System.out.println("Produced "+msg.getContent());
             } catch (InterruptedException e) {

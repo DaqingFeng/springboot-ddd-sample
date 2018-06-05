@@ -6,10 +6,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Random;
-import java.util.concurrent.Executors;
-import java.util.concurrent.ScheduledExecutorService;
-import java.util.concurrent.ScheduledFuture;
-import java.util.concurrent.TimeUnit;
+import java.util.concurrent.*;
 
 /**
  * Created by fengdaqing on 2018/1/31.
@@ -19,6 +16,11 @@ public class AppRunableTest {
 
     @Test
     public void TestRunable() {
+
+        ConcurrentHashMap<String,String> hashmapDic=new ConcurrentHashMap<>();
+        hashmapDic.putIfAbsent("A","Hello Word");
+        hashmapDic.putIfAbsent("A","Fengdaqing");
+
         List<Double> arraylst = new ArrayList();
         arraylst.add(10.0);
         arraylst.add(11.1);

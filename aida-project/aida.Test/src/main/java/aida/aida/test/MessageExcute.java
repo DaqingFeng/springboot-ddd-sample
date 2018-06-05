@@ -17,15 +17,10 @@ public class MessageExcute implements Runnable {
     public void run() {
         while (true) {
             try {
-                Thread.sleep(200);
-                while (!queue.isEmpty()) {
-                    try {
-                        Message msg = queue.take();
-                        System.out.println(msg.getContent());
-                    } catch (InterruptedException ex) {
-                        ex.printStackTrace();
-                    }
-                }
+                Message msg = queue.take();
+                System.out.println(msg.getContent());
+            } catch (InterruptedException ex) {
+                ex.printStackTrace();
             } catch (Exception ex) {
                 ex.printStackTrace();
             }
