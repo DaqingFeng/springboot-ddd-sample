@@ -18,14 +18,14 @@ public class AppReflection {
 
             Class classInfo = Message.class;
 
-           // Field[] fileds = classInfo.getDeclaredFields();
-             Field[] fileds = classInfo.getFields();
+            Field[] fileds = classInfo.getDeclaredFields();
+            // Field[] fileds = classInfo.getFields();
 
             Class assembly = Class.forName(message.getClass().getName());
             Object obj = assembly.newInstance();
             for (Field field : fileds) {
                 // make the declared fields can be accessible.
-                // field.setAccessible(true);
+                 field.setAccessible(true);
                 Object value = field.get(message);
                 field.set(obj, value);
             }

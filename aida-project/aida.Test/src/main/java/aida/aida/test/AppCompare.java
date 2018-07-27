@@ -14,15 +14,25 @@ public class AppCompare {
     @Test
     public void TestCompare() {
         List<Message> messageList = new ArrayList<>();
-        Message b = new Message("A");
-        messageList.add(b);
+
 
         Message a = new Message("B");
         messageList.add(a);
 
-        System.out.println(a.compareTo(b) == 0);
+        Message b = new Message("A");
+        messageList.add(b);
 
-        Comparator<Message> comparatorObj =  Comparator.comparing(emp -> emp.getTitle());
+        Message c = new Message("A");
+        messageList.add(c);
+        Integer i=null;
+        System.out.println(i!=null);
+
+        System.out.print(b.compareTo(c));
+        System.out.print(a.compareTo(c));
+
+        System.out.println(b.equals(c));
+
+        Comparator<Message> comparatorObj = Comparator.comparing(emp -> emp.getTitle());
         messageList.forEach((item) -> {
             System.out.println(item.getTitle());
         });

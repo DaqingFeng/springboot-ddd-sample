@@ -19,7 +19,7 @@ public class AppReentrantLock {
 
     public void StartJob() {
         Thread t1 = new Thread(() -> {
-            while (count < 30) {
+            while (count < 50) {
                 getCount();
             }
         });

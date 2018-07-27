@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/aida-project/aida.domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aida-project/aida.Test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aida-project/aida.application" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/aida-project/aida.dto" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/aida-project/aida.infrastructure" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/aida-project/aida.queryside" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aida-project/aida.querySide" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/aida-project/aida.repository" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/aida-project/aida.web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/aida-project/dal-client" charset="UTF-8" />

@@ -24,6 +24,7 @@ public class AppCallable {
             Integer number = random.nextInt(10);
             FactorialCalculator calculator = new FactorialCalculator(number);
             Future result = service.submit(calculator);
+
             resultList.add(result);
         }
 
