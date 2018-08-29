@@ -65,6 +65,6 @@ public class Student implements Comparable<Student> {
 
     @Override
     public int hashCode() {
-        return 1000;
+        return  this.getName().hashCode()*this.getAge().hashCode();
     }
 }

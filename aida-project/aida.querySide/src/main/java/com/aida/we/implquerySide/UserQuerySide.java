@@ -37,12 +37,15 @@ public class UserQuerySide extends BaseQuerySide implements IUserQuerySide {
         try {
             FreeSelectSqlBuilder<List<UerInfoResponse>> builder = new FreeSelectSqlBuilder<>(dbCategory);
             builder.setTemplate(getUserInfoScript);
+
             int i = 1;
             StatementParameters paramater = new StatementParameters();
             paramater.set(i++, "UserName", Types.VARCHAR, request.getUserName());
             DalHints hints = DalHints.createIfAbsent(null).allowPartial();
+
             DalRowMapper<UerInfoResponse> userinfoRowMapper = new DalDefaultJpaMapper<>(UerInfoResponse.class);
             builder.mapWith(userinfoRowMapper);
+
             response= queryDao.query(builder, paramater, hints);
         } catch (SQLException ex) {
             ex.printStackTrace();
