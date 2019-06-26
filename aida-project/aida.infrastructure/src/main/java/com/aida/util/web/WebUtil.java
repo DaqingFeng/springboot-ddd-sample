@@ -23,7 +23,7 @@ public final class WebUtil {
         if (StringUtil.isEmpty(str)) {
             return "";
         }
-        char[] chars =ConvertUtil.bytesToChars(ConvertUtil.encodeBytes(str.getBytes(encoding), '%'));
+        char[] chars = ConvertUtil.bytesToChars(ConvertUtil.encodeBytes(str.getBytes(encoding), '%'));
         return new String(chars);
     }
 

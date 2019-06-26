@@ -1,114 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9dfcc18c-8ae9-4cb3-ad8a-e1184fea839a" name="Default" comment="">
+    <list default="true" id="1074e553-8f75-4d7c-9d73-d22695d502d7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_boot_dubbo_spring_boot_actuator_0_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_boot_dubbo_spring_boot_autoconfigure_0_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_boot_dubbo_spring_boot_starter_0_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_5_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_41.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_5_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_40.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_client_2_12_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_curator_curator_framework_2_12_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_jasper_8_5_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jdt_core_compiler_ecj_4_5_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_25_incubating.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_4_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_22.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_22.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_22.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_22.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_1_5_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aida-project/aida.Test/src/main/java/aida/aida/test/AppArrayList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aida-project/aida.querySide/src/main/resources/template/mybatis/mybatis-config.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/aidaProject.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/excludeFromValidation.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_access_1_1_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_access_1_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_29.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_21_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_3_0_0_v201103241009.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_b09.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jaxen_jaxen_1_1_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_41.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_44.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_email_1_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_7_0_76.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_23.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_7_0_76.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_23.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_easymock_easymock_2_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_easymock_easymockclassextension_2_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_asm_2_6_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_core_2_6_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_persistence_org_eclipse_persistence_moxy_2_6_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_5_0_b32.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_5_0_b32.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_5_0_b32.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_5_0_b32.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_5_0_b32.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_javax_json_1_0_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_25_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_25_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_25_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_25_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_25_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_25_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_entity_filtering_2_25_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_jaxb_2_25_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_moxy_2_25_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_9_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_9_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_9_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_9_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_9_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_9_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_4_2_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_4_2_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_8_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_8_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_8_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_8_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_8_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_13_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_13_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/aida-project/aida.web/src/main/java/com/aida/web/applicationMain.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/aida_web_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/aida_web_war.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/aida_web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/aida_web_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/helper/CollectionHelperTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/helper/CollectionHelperTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/helper/FileHelperTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/helper/FileHelperTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ArrayUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ArrayUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/CharsetUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/CharsetUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ChinesUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ChinesUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ClassUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ClassUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ConfigUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ConfigUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ConvertUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ConvertUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/DateUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/DateUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/DateUtilThreadSafe.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/DateUtilThreadSafe.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/DateUtilUsagesTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/DateUtilUsagesTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/EmailUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/EmailUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ExceptionUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ExceptionUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/FilePathUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/FilePathUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/FileUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/FileUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/PasswordTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/PasswordTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/PropertiesUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/PropertiesUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/RandomUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/RandomUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/RegUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/RegUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/StreamUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/StreamUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/StringUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/StringUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/SysUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/SysUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ZIPUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ZIPUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/algorithmImpl/FileEncodingUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/algorithmImpl/FileEncodingUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/algorithmImpl/FileImplTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/algorithmImpl/FileImplTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/algorithmImpl/FileTypeImplTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/algorithmImpl/FileTypeImplTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/coordinates/CoordinateUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/coordinates/CoordinateUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/encrypt/Base32Test.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/encrypt/Base32Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/encrypt/Base64Test.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/encrypt/Base64Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/encrypt/BlowfishTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/encrypt/BlowfishTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/encrypt/SecureHATest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/encrypt/SecureHATest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/filetest/FilePathUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/filetest/FilePathUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/filetest/FileUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/filetest/FileUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ftp/FTPUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/ftp/FTPUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/image/ColorUtilTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/image/ColorUtilTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/image/ImageCaptchaTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/image/ImageCaptchaTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/image/ImageCompareTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/image/ImageCompareTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/image/OperateImageTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/image/OperateImageTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/validTest.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/test/java/com/aida/util/validTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.Test/src/main/java/aida/aida/test/AppCompare.java" afterPath="$PROJECT_DIR$/aida-project/aida.Test/src/main/java/aida/aida/test/AppCompare.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.Test/src/main/java/aida/aida/test/AppReentrantLock.java" afterPath="$PROJECT_DIR$/aida-project/aida.Test/src/main/java/aida/aida/test/AppReentrantLock.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.Test/src/main/java/aida/aida/test/AppReflection.java" afterPath="$PROJECT_DIR$/aida-project/aida.Test/src/main/java/aida/aida/test/AppReflection.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/pom.xml" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.web/pom.xml" afterPath="$PROJECT_DIR$/aida-project/aida.web/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.web/src/main/java/com/aida/common/controller/HelloWorld.java" afterPath="$PROJECT_DIR$/aida-project/aida.web/src/main/java/com/aida/common/controller/HelloWorld.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.web/src/main/resources/servlet-context.xml" afterPath="$PROJECT_DIR$/aida-project/aida.web/src/main/resources/servlet-context.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.web/src/main/resources/spring-context.xml" afterPath="$PROJECT_DIR$/aida-project/aida.web/src/main/resources/spring-context.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.web/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/aida-project/aida.web/src/main/webapp/index.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/ArrayUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/ArrayUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/CharUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/CharUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/CharsetUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/CharsetUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/ChinesUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/ChinesUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/ClassUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/ClassUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/ConfigUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/ConfigUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/ConvertUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/ConvertUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/DateUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/DateUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/EmailUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/EmailUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/ExceptionUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/ExceptionUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/FilePathUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/FilePathUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/FileUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/FileUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/OpslabConfig.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/OpslabConfig.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/Password.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/Password.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/PropertiesUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/PropertiesUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/RandomUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/RandomUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/RegUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/RegUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/StreamUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/StreamUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/StringUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/StringUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/SysUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/SysUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/UtilConstant.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/UtilConstant.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/ZIPUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/ZIPUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/constant.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/constant.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/infrastructure/common/valid.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/valid.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/functions/ObjectHandler.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/functions/ObjectHandler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/functions/ObjectProcess.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/functions/ObjectProcess.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/helper/CollectionHelper.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/helper/CollectionHelper.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/helper/FileHelper.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/helper/FileHelper.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/algorithmImpl/BCConvert.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/algorithmImpl/BCConvert.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/algorithmImpl/FileEncodingUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/algorithmImpl/FileEncodingUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/algorithmImpl/FileImpl.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/algorithmImpl/FileImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/algorithmImpl/FileReadImpl.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/algorithmImpl/FileReadImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/algorithmImpl/FileTypeImpl.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/algorithmImpl/FileTypeImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/algorithmImpl/StringImpl.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/algorithmImpl/StringImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/bean/BeanStruct.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/bean/BeanStruct.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/bean/BeanUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/bean/BeanUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/bean/Factory.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/bean/Factory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/bean/PropertyFilter.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/bean/PropertyFilter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/coordinates/CoordinateUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/coordinates/CoordinateUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/encrypt/Base32.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/encrypt/Base32.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/encrypt/Base64.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/encrypt/Base64.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/encrypt/Blowfish.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/encrypt/Blowfish.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/encrypt/SecureHA.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/encrypt/SecureHA.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/ftp/FTPConstant.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/ftp/FTPConstant.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/ftp/FTPFactory.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/ftp/FTPFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/ftp/FTPLog.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/ftp/FTPLog.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/ftp/FTPUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/ftp/FTPUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/ftp/FTPUtilImpl.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/ftp/FTPUtilImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/ftp/FTPVo.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/ftp/FTPVo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/ftp/FileAttr.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/ftp/FileAttr.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/image/CaptchaUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/image/CaptchaUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/image/ColorUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/image/ColorUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/image/GIF/Encoder.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/image/GIF/Encoder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/image/GIF/GifEncoder.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/image/GIF/GifEncoder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/image/GIF/Quant.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/image/GIF/Quant.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/image/ImageCaptcha.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/image/ImageCaptcha.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/image/ImageCompare.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/image/ImageCompare.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/image/ImageUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/image/ImageUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/image/OperateImage.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/image/OperateImage.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/web/UrlUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/web/UrlUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/opslab/util/web/WebUtil.java" afterPath="$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/util/web/WebUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/aida.web/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/aida-project/aida.web/src/main/resources/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aida-project/pom.xml" afterPath="$PROJECT_DIR$/aida-project/pom.xml" />
     </list>
+    <ignored path="$PROJECT_DIR$/aida-project/aida.querySide/target/" />
+    <ignored path="$PROJECT_DIR$/aida-project/aida.Test/target/" />
+    <ignored path="$PROJECT_DIR$/aida-project/aida.infrastructure/target/" />
+    <ignored path="$PROJECT_DIR$/aida-project/dal-client/target/" />
+    <ignored path="$PROJECT_DIR$/aida-project/aida.web/target/" />
+    <ignored path="$PROJECT_DIR$/aida-project/aida.dto/target/" />
+    <ignored path="$PROJECT_DIR$/aida-project/aida.repository/target/" />
+    <ignored path="$PROJECT_DIR$/aida-project/aida.application/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,6 +193,72 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="UserDaoExt.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aida-project/aida.repository/src/main/java/com/aida/dao/UserDaoExt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aida-project/aida.repository/src/main/java/com/aida/dao/UserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseQuerySide.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aida-project/aida.querySide/src/main/java/com/aida/we/implquerySide/BaseQuerySide.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserQuerySide.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aida-project/aida.querySide/src/main/java/com/aida/we/implquerySide/UserQuerySide.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aida-project/aida.web/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="67" column="24" lean-forward="true" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>comparatorObj</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -125,18 +267,31 @@
       <projects_view />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/aida-project/aida.Test/src/main/java/aida/aida/test/AppArrayList.java" />
+        <option value="$PROJECT_DIR$/aida-project/aida.Test/src/main/java/aida/aida/test/AppCompare.java" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -152,7 +307,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -161,7 +315,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="aidaProject" />
+              <option name="myItemId" value="aida.web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -171,25 +325,122 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="aidaProject" />
+              <option name="myItemId" value="aida.web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="aida-project" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aidaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aida.web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aidaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aida.querySide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aidaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aida.querySide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aidaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aida.querySide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mybatis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aidaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aida.querySide" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/aida-project" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -203,7 +454,59 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.AppCompare.TestCompare">
+    <configuration default="false" name="AppArrayList.Main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="aida.aida.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="aida.test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="aida.aida.test" />
+      <option name="MAIN_CLASS_NAME" value="aida.aida.test.AppArrayList" />
+      <option name="METHOD_NAME" value="Main" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="AppCompare.TestCompare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="aida.aida.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="aida.test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="aida.aida.test" />
+      <option name="MAIN_CLASS_NAME" value="aida.aida.test.AppCompare" />
+      <option name="METHOD_NAME" value="TestCompare" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -441,7 +744,6 @@
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
-      <setting name="depsClasspath" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -511,7 +813,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="aidaProject" />
+      <module name="aida.domain" />
       <envs />
       <method />
     </configuration>
@@ -525,6 +827,13 @@
       <option name="workingDirectory" />
       <option name="isAlternativeJrePathEnabled" value="false" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -570,12 +879,6 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -591,57 +894,102 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.AppArrayList.Main" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.AppCompare.TestCompare" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.AppCompare.TestCompare" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.AppArrayList.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9dfcc18c-8ae9-4cb3-ad8a-e1184fea839a" name="Default" comment="" />
-      <created>1509972270843</created>
+      <changelist id="1074e553-8f75-4d7c-9d73-d22695d502d7" name="Default" comment="" />
+      <created>1531399190474</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1509972270843</updated>
-      <workItem from="1509972272189" duration="20000" />
-      <workItem from="1512091098631" duration="9000" />
-      <workItem from="1512103850711" duration="9000" />
+      <updated>1531399190474</updated>
+      <workItem from="1531399195799" duration="9275000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="AppArrayList_Main - 2018.07.12 at 20h 42m 34s.xml">
+      <configuration name="AppArrayList.Main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppArrayList_Main - 2018.07.12 at 20h 44m 38s.xml">
+      <configuration name="AppArrayList.Main" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppCompare_TestCompare - 2018.07.16 at 15h 56m 23s.xml">
+      <configuration name="AppCompare.TestCompare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppCompare_TestCompare - 2018.07.16 at 15h 56m 44s.xml">
+      <configuration name="AppCompare.TestCompare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppCompare_TestCompare - 2018.07.16 at 15h 57m 03s.xml">
+      <configuration name="AppCompare.TestCompare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppCompare_TestCompare - 2018.07.16 at 15h 57m 27s.xml">
+      <configuration name="AppCompare.TestCompare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppCompare_TestCompare - 2018.07.16 at 15h 57m 28s.xml">
+      <configuration name="AppCompare.TestCompare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppCompare_TestCompare - 2018.07.16 at 16h 00m 16s.xml">
+      <configuration name="AppCompare.TestCompare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppCompare_TestCompare - 2018.07.16 at 16h 00m 55s.xml">
+      <configuration name="AppCompare.TestCompare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppCompare_TestCompare - 2018.07.16 at 16h 01m 54s.xml">
+      <configuration name="AppCompare.TestCompare" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38000" />
+    <option name="totallyTimeSpent" value="9275000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12526652" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15959822" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24946696" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -651,7 +999,331 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/aida-project/aida.Test/src/main/java/aida/aida/test/AppCompare.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
     <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/aida-project/aida.Test/src/main/java/aida/aida/test/AppCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="34" lean-forward="false" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="755">
+          <caret line="378" column="0" lean-forward="true" selection-start-line="378" selection-start-column="0" selection-end-line="378" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/Timer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="242" column="16" lean-forward="false" selection-start-line="242" selection-start-column="16" selection-end-line="242" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aida-project/aida.infrastructure/src/main/java/com/aida/utils/MemoryCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="37" column="38" lean-forward="false" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aida-project/aida.Test/src/main/java/aida/aida/test/AppArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#281#290#0" expanded="true" />
+            <element signature="e#370#379#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aida-project/aida.Test/src/main/java/aida/aida/test/AppMessageQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aida-project/aida.Test/src/main/java/aida/aida/test/AppCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aida-project/aida.Test/src/main/java/aida/aida/test/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+          <folding>
+            <element signature="e#1542#1543#0" expanded="false" />
+            <element signature="e#1583#1584#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_141/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aida-project/aida.Test/src/main/java/aida/aida/test/AppCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aida-project/aida.Test/src/main/java/aida/aida/test/AppMemoryCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aida-project/aida.Test/src/main/java/aida/aida/test/AppRabbitmq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aida-project/aida.Test/src/main/java/aida/aida/test/AppReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aida-project/aida.Test/src/main/java/aida/aida/test/AppReflection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="26" column="62" lean-forward="true" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aida-project/aida.repository/src/main/java/com/aida/dao/MenuDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aida-project/aida.repository/src/main/java/com/aida/dao/RoleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aida-project/aida.repository/src/main/java/com/aida/entity/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aida-project/aida.repository/src/main/java/com/aida/dao/RolemenurelationDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aida-project/aida.repository/src/main/java/com/aida/dao/UserDaoExt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aida-project/aida.repository/src/main/java/com/aida/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aida-project/aida.querySide/src/main/java/com/aida/we/implquerySide/BaseQuerySide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aida-project/aida.querySide/src/main/resources/template/mybatis/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.942/ITestDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aida-project/aida.querySide/src/main/java/com/aida/we/implquerySide/UserQuerySide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="32" column="5" lean-forward="false" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aida-project/aida.web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="67" column="24" lean-forward="true" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>aida.web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>aida.queryside</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

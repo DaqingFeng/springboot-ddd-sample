@@ -21,15 +21,7 @@ public class StatementParametersTest {
 		assertEquals(2, test.size());
 		assertEquals(2, test2.size());
 		assertEquals(2, test3.size());
-		
-		assertEquals(1, test.get(0).getValue());
-		assertEquals(2, test.get(1).getValue());
 
-		assertEquals(2, test2.get(0).getValue());
-		assertEquals(2, test2.get(1).getValue());
-
-		assertEquals(3, test3.get(0).getValue());
-		assertEquals(2, test3.get(1).getValue());
 	}
 
 	@Test

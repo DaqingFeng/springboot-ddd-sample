@@ -5,6 +5,9 @@ package com.aida.dto.user;
 
 public class UserSaveRequest  {
 
+
+	private  String userId;
+
 	private String userName;
 
 	private String password;
@@ -20,6 +23,14 @@ public class UserSaveRequest  {
  
  
 	private String remark;
+
+	public String getUserId() {
+		return userId;
+	}
+
+	public void setUserId(String userId) {
+		this.userId = userId;
+	}
 
 
 	public String getUserName() {

@@ -1,5 +1,5 @@
 <Datasources>
-	<Datasource name="AIDA Project"
+	<Datasource name="AIDA"
               userName="sa"
               password="sa123456"
               connectionUrl="jdbc:mysql://localhost:3306/aida"

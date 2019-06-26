@@ -14,7 +14,7 @@ import java.sql.Types;
 import com.ctrip.platform.dal.dao.DalPojo;
 
 @Entity
-@Database(name="AIDA Project")
+@Database(name="AIDA")
 @Table(name="tb_rolemenurelation")
 public class Rolemenurelation implements DalPojo {
 

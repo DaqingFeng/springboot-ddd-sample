@@ -73,7 +73,7 @@ public class DalDirectClient implements DalClient {
 	}
 
 	@Override
-	public List<?> query(String sql, StatementParameters parameters, final DalHints hints, final List<DalResultSetExtractor<?>> extractors) 
+	public List<?> query(String sql, StatementParameters parameters, final DalHints hints, final List<DalResultSetExtractor<?>> extractors)
 			throws SQLException {
 		ConnectionAction<List<?>> action = new ConnectionAction<List<?>>() {
 			@Override

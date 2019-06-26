@@ -1,18 +1,18 @@
 package com.aida.dao;
 
-import com.ctrip.platform.dal.dao.*;
-import com.ctrip.platform.dal.dao.sqlbuilder.*;
-import java.sql.SQLException;
-import java.sql.Timestamp;
-import java.sql.Types;
-import java.util.List;
 import com.aida.entity.Menu;
-
+import com.ctrip.platform.dal.dao.DalHints;
+import com.ctrip.platform.dal.dao.DalTableDao;
+import com.ctrip.platform.dal.dao.KeyHolder;
 import com.ctrip.platform.dal.dao.helper.DalDefaultJpaParser;
+import com.ctrip.platform.dal.dao.sqlbuilder.SelectSqlBuilder;
+
+import java.sql.SQLException;
+import java.util.List;
 
 public class MenuDao {
 	private static final boolean ASC = true;
-	private DalTableDao<Menu> client;
+	protected DalTableDao<Menu> client;
 	
 	public MenuDao() throws SQLException {
 		this.client = new DalTableDao<>(new DalDefaultJpaParser<>(Menu.class));

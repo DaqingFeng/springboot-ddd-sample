@@ -1,14 +1,5 @@
 package test.com.ctrip.platform.dal.dao.markdown;
 
-import java.sql.SQLException;
-
-import junit.framework.Assert;
-
-import org.easymock.classextension.EasyMock;
-import org.junit.Before;
-import org.junit.BeforeClass;
-import org.junit.Test;
-
 import com.ctrip.platform.dal.common.enums.DatabaseCategory;
 import com.ctrip.platform.dal.dao.DalClientFactory;
 import com.ctrip.platform.dal.dao.client.DalConnection;
@@ -16,6 +7,15 @@ import com.ctrip.platform.dal.dao.client.DbMeta;
 import com.ctrip.platform.dal.dao.markdown.MarkdownManager;
 import com.ctrip.platform.dal.dao.status.DalStatusManager;
 import com.mysql.jdbc.exceptions.MySQLTimeoutException;
+import junit.framework.Assert;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.Test;
+
+import java.sql.SQLException;
+
+import static org.mockito.Mockito.mock;
+import static org.mockito.Mockito.when;
 
 public class AutoMarkdownTest {
 
@@ -116,14 +116,12 @@ public class AutoMarkdownTest {
 	}
 	
 	public DalConnection mockDalConnection(){
-		DalConnection conn = EasyMock.createMock(DalConnection.class);
-		DbMeta meta = EasyMock.createMock(DbMeta.class);
-		EasyMock.expect(meta.getDataBaseKeyName()).andReturn(dbName).times(1);
-		EasyMock.expect(meta.getDatabaseCategory()).andReturn(DatabaseCategory.MySql).times(1);
-		
-		EasyMock.expect(conn.getMeta()).andReturn(meta).times(3);
-		
-		EasyMock.replay(meta, conn);
+		DalConnection conn = mock(DalConnection.class);
+		DbMeta meta = mock(DbMeta.class);
+		when(meta.getDataBaseKeyName()).thenReturn(dbName);
+		when(meta.getDatabaseCategory()).thenReturn(DatabaseCategory.MySql) ;
+		when(conn.getMeta()).thenReturn(meta);
 		return conn;
 	}
+
 }

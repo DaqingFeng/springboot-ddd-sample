@@ -15,13 +15,13 @@ import java.util.regex.Pattern;
 public final class DateUtil {
 
     //日期时间类型格式
-    private static final String DATETIME_FORMAT = OpslabConfig.DATETIME_FORMAT;
+    private static final String DATETIME_FORMAT = Constant.DATETIME_FORMAT;
 
     //日期类型格式
-    private static final String DATE_FORMAT = OpslabConfig.DATE_FORMAT;
+    private static final String DATE_FORMAT = Constant.DATE_FORMAT;
 
     //时间类型的格式
-    private static final String TIME_FORMAT = OpslabConfig.TIME_FORMAT;
+    private static final String TIME_FORMAT = Constant.TIME_FORMAT;
 
     //注意SimpleDateFormat不是线程安全的
     private static ThreadLocal<SimpleDateFormat> ThreadDateTime = new ThreadLocal<SimpleDateFormat>();

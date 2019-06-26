@@ -1,12 +1,11 @@
 package com.aida.util.ftp;
 
+import com.aida.utils.FileUtil;
+import com.aida.utils.valid;
 import org.apache.commons.net.ftp.FTPClient;
 import org.apache.commons.net.ftp.FTPFile;
 import org.apache.commons.net.ftp.FTPReply;
 import org.apache.log4j.Logger;
-
-import com.aida.utils.FileUtil;
-import com.aida.utils.valid;
 
 import java.io.*;
 import java.util.*;
