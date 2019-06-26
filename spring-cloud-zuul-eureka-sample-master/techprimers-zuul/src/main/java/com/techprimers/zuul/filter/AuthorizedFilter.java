@@ -23,7 +23,6 @@ public class AuthorizedFilter extends ZuulFilter {
             requestContext.addZuulRequestHeader("X-AUTH-ID", authentication.getPrincipal().toString());
             return null;
         }
-
         //window.btoa("admin:admin");  Javascript
         RequestContext curContext = RequestContext.getCurrentContext();
         HttpServletRequest httpRequest = curContext.getRequest();
@@ -32,7 +31,6 @@ public class AuthorizedFilter extends ZuulFilter {
             curContext.addZuulRequestHeader("Authorization", auth);
             return null;
         }
-
         String username = httpRequest.getHeader("username");
         String password = httpRequest.getHeader("password");
         if (!StringUtils.isEmpty(username) && !StringUtils.isEmpty(password)) {
